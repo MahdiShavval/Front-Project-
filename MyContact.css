@@ -1,0 +1,38 @@
+:lang(fa) {
+    direction: rtl;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input {
+    /* width: 30%; */
+    background-color: white(164, 248, 248, 0.87);
+    border: 1px solid #e4ecef;
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+}
+
+textarea {
+    height: 20em;
+    width: 199%;
+    background-color: white(250, 250, 250, 0.87);
+    border: 1px solid #e4ecef;
+    resize: none;
+}
+
+button {
+    background-color: rgb(230, 219, 214);
+    width: 202%;
+    height: 40px;
+    border: 1px solid #e4ecef;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: burlywood;
+}
+h1
+{
+    
+    margin-right: 75px;
+}
